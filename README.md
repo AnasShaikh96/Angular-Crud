@@ -1,3 +1,10 @@
+# data.json
+
+cd src/app/data.json and write following command json-server --watch ./src/app/data.json
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # AngularCrudApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
